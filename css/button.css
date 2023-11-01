@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        .rounded-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #007BFF;
+            color: #fff;
+            border-radius: 25px;
+            text-decoration: none;
+            text-align: center;
+        }
+        .rounded-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <a href="https://www.google.com/maps/place/SDN+KUMPAY+I/@-6.6655838,107.7244441,17z/data=!4m6!3m5!1s0x2e6923cf95955555:0x34f8519e3b7e2f68!8m2!3d-6.6655145!4d107.7267562!16s%2Fg%2F11bx0k3vk4?entry=ttu" class="rounded-button">Buka Peta Google</a>
+</body>
+</html>
